@@ -4,12 +4,12 @@
   "scripts": {
     "postinstall": "ng build",
     "ng": "ng",
-<<<<<<< HEAD
+
     "start": "node server.js",
-=======
+
     "start": "ng serve",
 	"main": "server.js",
->>>>>>> 48b2689bc0137d25289899341782617433b860e9
+
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
